@@ -39,9 +39,6 @@ storybook
 <br>
 
 
-<br>
-
-
 Feito com :blue_heart: by [Vagner Santos](https://github.com/vagner531)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vagner%20Santos-0d99ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnersantosnascimento/)](https://www.linkedin.com/in/vagnersantosnascimento/) 
